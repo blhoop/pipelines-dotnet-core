@@ -4,7 +4,7 @@ For information on how to use this repository, see [.NET Core](https://docs.micr
 
 | Example | Build status |
 |---------|--------------|
-| Build | [![Build status](https://blgocubs.visualstudio.com/GitHubCheck/_apis/build/status/GitHubCheck-ASP.NETCore-CI?branch=master)](https://blgocubs.visualstudio.com/GitHubCheck/_build/latest?definitionId=18) |
+| Build | [![Build status](https://blgocubs.visualstudio.com/_apis/public/build/definitions/GitHubCheck/18/badge)](https://blgocubs.visualstudio.com/GitHubCheck/_build/latest?definitionId=18) |
 | Build (YAML) | [![Build status](https://pipelines-docs.visualstudio.com/docs/_apis/build/status/dotnetcore/dotnetcore-yaml)](https://pipelines-docs.visualstudio.com/docs/_build/latest?definitionId=2) |
 | Build image and push to Docker Hub | [![Build status](https://pipelines-docs.visualstudio.com/docs/_apis/build/status/dotnetcore/dotnetcore-dockerhub)](https://pipelines-docs.visualstudio.com/docs/_build/latest?definitionId=3) |
 | Build image and push to Docker Hub (YAML) | [![Build status](https://pipelines-docs.visualstudio.com/docs/_apis/build/status/dotnetcore/dotnetcore-dockerhub-yaml)](https://pipelines-docs.visualstudio.com/docs/_build/latest?definitionId=4) |
